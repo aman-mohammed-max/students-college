@@ -26,7 +26,8 @@
 				"esbenp.prettier-vscode",
 				"antmdvs.vscode-react-hooks-snippets",
 				"AYashwanth.react-hooks",
-				"cssho.vscode-svgviewer"
+				"cssho.vscode-svgviewer",
+				"ionic.ionic"
 			]
 		}
 	}

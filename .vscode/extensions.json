@@ -1,9 +1,10 @@
 {
-    "recommendations": [
-        "bradlc.vscode-tailwindcss",
-        "kalimahapps.tailwind-config-viewer",
-        "antfu.vite",
-        "antfu.browse-lite",
-        "alfredbirk.tailwind-documentation"
-    ]
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "kalimahapps.tailwind-config-viewer",
+    "antfu.vite",
+    "antfu.browse-lite",
+    "alfredbirk.tailwind-documentation",
+    "ionic.ionic"
+  ]
 }

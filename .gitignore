@@ -16,11 +16,14 @@ yarn.lock
 
 # Editor directories and files
 .vscode/*
-!.vscode/extensions.json
 .idea
 .DS_Store
 *.suo
+.env*
+.env
+.gitignore
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+build

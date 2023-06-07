@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">students</string>
+    <string name="title_activity_main">students</string>
+    <string name="package_name">com.poly.students</string>
+    <string name="custom_url_scheme">com.poly.students</string>
+</resources>

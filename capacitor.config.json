@@ -1,0 +1,10 @@
+{
+  "appId": "com.poly.students",
+  "appName": "students",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https",
+    "url": "http://192.168.1.38:8100",
+    "originalUrl": "http://192.168.207.27:8100"
+  }
+}
